@@ -2,12 +2,11 @@
 <extension type="module" version="3.0" client="site" method="upgrade">
   <name>mod_joomsearch</name>
   <author>JoomGallery::Project Team</author>
-  <creationDate>18.03.2013</creationDate>
-  <authorEmail>team@joomgallery.net</authorEmail>
-  <authorUrl>www.joomgallery.net</authorUrl>
-  <copyright>(C) 2009 - 2013 JoomGallery::Project Team</copyright>
+  <creationDate>2019/04/03</creationDate>
+  <authorUrl>www.joomgalleryfriends.net</authorUrl>
+  <copyright>(C) 2009 - 2019 JoomGallery::Project Team</copyright>
   <license>This module is released under the GNU/GPL License</license>
-  <version>3.0 BETA</version>
+  <version>3.0.1</version>
   <description>MOD_JOOMSEARCH_DESC</description>
   <files>
     <filename module="mod_joomsearch">mod_joomsearch.php</filename>
@@ -124,6 +123,6 @@
     </fields>
   </config>
   <updateservers>
-    <server type="collection" priority="1" name="JoomGallery Update Service">http://www.joomgallery.net/components/com_newversion/xml/extensions3.xml</server>
+    <server type="collection" priority="1" name="JoomGallery Update Service">https://www.joomgalleryfriends.net/components/com_newversion/xml/extensions3.xml</server>
   </updateservers>
 </extension>

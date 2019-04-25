@@ -18,6 +18,11 @@ $jo = $joomsearchObj; ?>
   <?php echo JText::_('JSJOOMGALLERY_NOT_INSTALLED_OR_OUTDATED'); ?>
   </p>
 <?php else: ?>
+<?php if(!JPluginHelper::isEnabled('search', 'joomgallery')): ?>
+  <p class="alert alert-error">
+  <?php echo JText::_('JS_PLUGIN_JOOMSEARCH_NOT_ACTIVATED'); ?>
+  </p>
+<?php endif; ?>
   <form id="js_searchform<?php echo $moduleid; ?>" action="<?php echo JURI::Base(); ?>" method="post">
     <input type="hidden" name="searchphrase" value="all" />
     <input type="hidden" name="view" value="search" />
