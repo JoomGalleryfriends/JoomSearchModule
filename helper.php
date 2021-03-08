@@ -1,13 +1,13 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomSearch/trunk/helper.php $
-// $Id: helper.php 4148 2013-03-18 16:05:32Z erftralle $
-/**
-* Module JoomSearch for JoomGallery
-* by JoomGallery::Project Team
-* @package JoomGallery
-* @copyright JoomGallery::Project Team
-* @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
-*/
+/****************************************************************************************\
+**   Module JoomSearch for JoomGallery                                                  **
+**   By: JoomGallery::ProjectTeam                                                       **
+**   @package JoomGallery                                                               **
+**   @copyright JoomGallery::Project Team                                               **
+**   Released under GNU GPL Public License                                              **
+**   License: http://www.gnu.org/copyleft/gpl.html or have a look                       **
+**   at administrator/components/com_joomgallery/LICENSE.TXT                            **
+\****************************************************************************************/
 
 // No direct access
 defined('_JEXEC') or die('Restricted access');
