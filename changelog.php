@@ -1,6 +1,4 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomSearch/trunk/changelog.php $
-// $Id: changelog.php 4148 2013-03-18 16:05:32Z erftralle $
 /**
  * Module JoomSearch for JoomGallery
  * by JoomGallery::Project Team

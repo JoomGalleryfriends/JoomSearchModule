@@ -1,6 +1,4 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomSearch/trunk/tmpl/default.php $
-// $Id: default.php 4109 2013-02-26 10:41:21Z erftralle $
 /**
 * Module JoomSearch for JoomGallery
 * by JoomGallery::Project Team
