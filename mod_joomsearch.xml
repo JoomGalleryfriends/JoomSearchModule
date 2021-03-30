@@ -2,11 +2,11 @@
 <extension type="module" version="3.0" client="site" method="upgrade">
   <name>mod_joomsearch</name>
   <author>JoomGallery::Project Team</author>
-  <creationDate>2019/04/03</creationDate>
+  <creationDate>2021/03/30</creationDate>
   <authorUrl>www.joomgalleryfriends.net</authorUrl>
-  <copyright>(C) 2009 - 2019 JoomGallery::Project Team</copyright>
+  <copyright>(C) 2009 - 2021 JoomGallery::Project Team</copyright>
   <license>This module is released under the GNU/GPL License</license>
-  <version>3.0.1</version>
+  <version>3.0.2</version>
   <description>MOD_JOOMSEARCH_DESC</description>
   <files>
     <filename module="mod_joomsearch">mod_joomsearch.php</filename>

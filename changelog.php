@@ -24,6 +24,11 @@ Legende / Legend:
 - -> Removed
 ! -> Note
 
+--------------------     Version 3.0.2      -----------------------
+20210330
+# Loading JoomInterface class in helper.php to avoid error
+  when using the joomla updater
+
 --------------------     Version 3.0.1      -----------------------
 20190403
 ^ Change update server
